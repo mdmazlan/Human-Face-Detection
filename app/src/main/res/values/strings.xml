@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Human Face Detection</string>
+    <string name="image_detect">Image Detect</string>
+    <string name="video_detect">Video Detect</string>
+</resources>
